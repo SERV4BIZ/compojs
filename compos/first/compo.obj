@@ -1,0 +1,5 @@
+<style>
+</style><h1></h1><script>var $_this = compojsObject["$_"];var $_parent = $_this.parent;
+$_this.ready = function(pmts) {
+    $("h1").html("Hello world CompoJS");
+};$(document).ready(function(){$_this.call("ready",$_this.pmts);delete compojsObject["$_"];});</script>

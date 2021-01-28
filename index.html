@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>CompoJS</title>
+
+    <script src="compojs.config.js"></script>
+    <script src="compojs.lib.js"></script>
+    <script src="compojs.app.js"></script>
+
+    <script>
+        function compojsReady(){
+            CompoJS.create(null, "first",{}).then(function (compo) {
+                $("#content").html(compo.render());
+            });
+        }
+    </script>
+</head>
+
+<body>
+
+    <div id="content"></div>
+    
+</body>
+
+</html>
