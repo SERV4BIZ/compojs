@@ -17,6 +17,9 @@ class URL {
   static getParams(paramUrl) {
     let jsoData = {}
     let sPageURL = paramUrl || window.location.search.substring(1);
+    sPageURL = sPageURL.trim("?");
+    sPageURL = sPageURL.trim("/");
+    sPageURL = sPageURL.trim("&");
     if (sPageURL != "") {
       let sURLVariables = sPageURL.split('&');
       for (let i = 0; i < sURLVariables.length; i++) {
