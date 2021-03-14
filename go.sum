@@ -1,0 +1,14 @@
+github.com/SERV4BIZ/gfp/collection v0.0.0-20210302062410-766954048867 h1:06pFg2A36nC1GDXQR8Ercs7hbhHpOjzNHNuJwbKNQg4=
+github.com/SERV4BIZ/gfp/collection v0.0.0-20210302062410-766954048867/go.mod h1:q5gv++CP8OOYitARxvTn7w78B5KSdsRbfZNJP5hukVk=
+github.com/SERV4BIZ/gfp/files v0.0.0-20210302062410-766954048867 h1:Ii4MxMkvoTYKisDFEjSSbiZXFPuzkapZMo5HkNBwTTQ=
+github.com/SERV4BIZ/gfp/files v0.0.0-20210302062410-766954048867/go.mod h1:ZDFxg0rNOeNT/uGGvG2YQ395F6x9yQd5rV6RR0Rjkfg=
+github.com/SERV4BIZ/gfp/handler v0.0.0-20210302062410-766954048867 h1:Vun8PELKLGTZ5Qv824HtYpjP6P3kZLu7wTpGh1rb7nE=
+github.com/SERV4BIZ/gfp/handler v0.0.0-20210302062410-766954048867/go.mod h1:BBaLtVwK3xgUBhJ+futu5imcyqJA30s9sNoPj6m3YBg=
+github.com/SERV4BIZ/gfp/jsons v0.0.0-20210302062410-766954048867 h1:JCbjyrFOcIkVlkoSoq/P1tdh/gPkPy2U7tVcnBySck8=
+github.com/SERV4BIZ/gfp/jsons v0.0.0-20210302062410-766954048867/go.mod h1:3tIMUd3nUCI3CD15dkNb1FiiCrEPjdRHoIcafHyMkNc=
+github.com/tdewolff/minify v2.3.6+incompatible h1:2hw5/9ZvxhWLvBUnHE06gElGYz+Jv9R4Eys0XUzItYo=
+github.com/tdewolff/minify v2.3.6+incompatible/go.mod h1:9Ov578KJUmAWpS6NeZwRZyT56Uf6o3Mcz9CEsg8USYs=
+github.com/tdewolff/parse v2.3.4+incompatible h1:x05/cnGwIMf4ceLuDMBOdQ1qGniMoxpP46ghf0Qzh38=
+github.com/tdewolff/parse v2.3.4+incompatible/go.mod h1:8oBwCsVmUkgHO8M5iCzSIDtpzXOT0WXX9cWhz+bIzJQ=
+github.com/tdewolff/test v1.0.6 h1:76mzYJQ83Op284kMT+63iCNCI7NEERsIN8dLM+RiKr4=
+github.com/tdewolff/test v1.0.6/go.mod h1:6DAvZliBAAnD7rhVgwaM7DE5/d9NMOAJ09SqYqeK4QE=

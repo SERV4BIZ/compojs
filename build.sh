@@ -6,6 +6,8 @@ NAMEFREEBSD="compojs.freebsd"
 NAMEWINDOWS="compojs.windows"
 NAMEDARWIN="compojs.darwin"
 
+export GO111MODULE=auto
+
 rm -f $NAMEARM
 export GOOS=linux
 export GOARCH=arm64

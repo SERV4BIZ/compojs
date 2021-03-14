@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"./utility"
+	"github.com/SERV4BIZ/compojs/utility"
 
 	"github.com/SERV4BIZ/gfp/files"
 	"github.com/SERV4BIZ/gfp/handler"
